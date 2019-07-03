@@ -1,0 +1,10 @@
+C:/Users/Christopher Chen/Documents/Programming/Game Arch/hw6/build/ga6-win64/CMakeFiles/ALWAYS_COPY_DATA.dir
+C:/Users/Christopher Chen/Documents/Programming/Game Arch/hw6/build/ga6-win64/CMakeFiles/ga.dir
+C:/Users/Christopher Chen/Documents/Programming/Game Arch/hw6/build/ga6-win64/CMakeFiles/INSTALL.dir
+C:/Users/Christopher Chen/Documents/Programming/Game Arch/hw6/build/ga6-win64/CMakeFiles/ALL_BUILD.dir
+C:/Users/Christopher Chen/Documents/Programming/Game Arch/hw6/build/ga6-win64/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Christopher Chen/Documents/Programming/Game Arch/hw6/build/ga6-win64/SDL2-2.0.7/CMakeFiles/SDL2-static.dir
+C:/Users/Christopher Chen/Documents/Programming/Game Arch/hw6/build/ga6-win64/SDL2-2.0.7/CMakeFiles/SDL2main.dir
+C:/Users/Christopher Chen/Documents/Programming/Game Arch/hw6/build/ga6-win64/SDL2-2.0.7/CMakeFiles/uninstall.dir
+C:/Users/Christopher Chen/Documents/Programming/Game Arch/hw6/build/ga6-win64/SDL2-2.0.7/CMakeFiles/INSTALL.dir
+C:/Users/Christopher Chen/Documents/Programming/Game Arch/hw6/build/ga6-win64/SDL2-2.0.7/CMakeFiles/ALL_BUILD.dir

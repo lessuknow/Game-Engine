@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/Christopher Chen/Documents/Programming/Game Arch/hw6/src/3rdparty/SDL2-2.0.7/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/Christopher Chen/Documents/Programming/Game Arch/hw6/build/ga6-win64/SDL2-2.0.7/CMakeFiles/generate.stamp is up-to-date.
+  SDL_windows_main.c
+  SDL2main.vcxproj -> C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\build\ga6-win64\SDL2-2.0.7\Debug\SDL2maind.lib

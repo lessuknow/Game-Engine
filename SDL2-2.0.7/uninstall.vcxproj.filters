@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\src\3rdparty\SDL2-2.0.7\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\build\ga6-win64\CMakeFiles\9123aea4b3f7d1f9ea06c7537c847031\uninstall.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\build\ga6-win64\SDL2-2.0.7\CMakeFiles\uninstall" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C1371C09-AFF1-3AA4-902C-48BA16C8BAC4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

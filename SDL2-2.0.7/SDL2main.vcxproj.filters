@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\src\3rdparty\SDL2-2.0.7\src\main\windows\SDL_windows_main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\src\3rdparty\SDL2-2.0.7\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D2C10BBC-6F29-3A5B-AD51-AD095B6EB83C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

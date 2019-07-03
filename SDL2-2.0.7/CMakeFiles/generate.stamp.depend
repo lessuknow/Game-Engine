@@ -1,0 +1,39 @@
+# CMake generation dependency list for this directory.
+C:/Users/Christopher Chen/Documents/Programming/Game Arch/hw6/src/3rdparty/SDL2-2.0.7/CMakeLists.txt
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckIncludeFiles.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckSymbolExists.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckCSourceRuns.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckCCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckTypeSize.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckStructHasMember.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckCXXSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakeDependentOption.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPkgConfig.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/GNUInstallDirs.cmake
+C:/Users/Christopher Chen/Documents/Programming/Game Arch/hw6/src/3rdparty/SDL2-2.0.7/cmake/macros.cmake
+C:/Users/Christopher Chen/Documents/Programming/Game Arch/hw6/src/3rdparty/SDL2-2.0.7/cmake/sdlchecks.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckIncludeFile.c.in
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckIncludeFile.c.in
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckIncludeFile.c.in
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckIncludeFile.c.in
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckIncludeFile.c.in
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckIncludeFile.c.in
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckIncludeFile.c.in
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckIncludeFile.c.in
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckIncludeFile.c.in
+C:/Users/Christopher Chen/Documents/Programming/Game Arch/hw6/src/3rdparty/SDL2-2.0.7/include/SDL_config.h.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/WriteBasicConfigVersionFile.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in
+C:/Users/Christopher Chen/Documents/Programming/Game Arch/hw6/src/3rdparty/SDL2-2.0.7/cmake_uninstall.cmake.in

@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\src\engine\entity\ga_component.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\src\engine\entity\ga_entity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\src\engine\framework\ga_camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\src\engine\framework\ga_input.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\src\engine\framework\ga_output.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\src\engine\framework\ga_sim.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\src\engine\graphics\ga_cube_component.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\src\engine\graphics\ga_material.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\src\engine\graphics\ga_program.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\src\engine\graphics\ga_texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\src\engine\jobs\ga_condvar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\src\engine\jobs\ga_fiber.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\src\engine\jobs\ga_intpool.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\src\engine\jobs\ga_job.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\src\engine\jobs\ga_queue.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\src\engine\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\src\engine\math\ga_mat3f.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\src\engine\math\ga_mat4f.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\src\engine\math\ga_quatf.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\src\engine\math\ga_vec2f.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\src\engine\math\ga_vec3f.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\src\engine\math\ga_vec4f.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\src\engine\physics\ga_intersection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\src\engine\physics\ga_intersection.tests.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\src\engine\physics\ga_physics_component.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\src\engine\physics\ga_physics_world.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\src\engine\physics\ga_rigid_body.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\src\engine\physics\ga_shape.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\src\engine\always_copy_data.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Christopher Chen\Documents\Programming\Game Arch\hw6\src\engine\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D2C10BBC-6F29-3A5B-AD51-AD095B6EB83C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{1A4BE3C7-C64C-37FB-B0C7-EA6BC3A397F4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
